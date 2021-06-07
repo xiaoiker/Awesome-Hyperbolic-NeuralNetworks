@@ -13,7 +13,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2021 | NN | NLP  | - |
 | [Hyperbolic Neural Networks++](https://openreview.net/forum?id=Ec85b0tUwbA) | ICLR2021 | NN | NLP  | [PyTorch](https://github.com/mil-tokyo/hyperbolic_nn_plusplus)|
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
-|   --------------------------------------------------------- | ------------ | --------- | -----------  | --------- | 
+|   ------------------------------------------------ | ------------ | --------- | -----------  | --------- | 
 | [Hyperbolic Distance Matrices](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | KDD2020 | Lorentzian | NLP/Tree  | [python](https://github.com/puoya/hyperbolic-distance-matrices)|
 | [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2020 | GCN | Graph  | - | 
 | [Mix Dimension in Poincar\'{e} Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3394171.3413910) | MM2020 | GCN | Grpah  | - |
@@ -24,6 +24,6 @@ Papers and Codes for the deep learning in hyperbolic space
 | [Hyperbolic graph convolutional neural networks](https://arxiv.org/abs/2010.00402) | NeurIPS2019 | GCN | Grpah  | [PyTorch](https://github.com/HazyResearch/hgcn)|
 | [Hyperbolic Ordinal Embedding](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | ACML2019 | Ordinal Embedding | NLP/Tree  | - |
 | [Hyperbolic Graph Neural Networks](https://papers.nips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html) | NeurIPS2019 | GNN | Molecular Structures | [PyTorch](https://github.com/facebookresearch/hgnn)|
-|   --------------------------------------------------------- | ------------ | --------- | -----------  | --------- | 
+|   ------------------------------------------------- | ------------ | --------- | -----------  | --------- | 
 | [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) | NeurIPS2018 | NN | NLP | [Tensorflow](https://github.com/dalab/hyperbolic_nn)|
-|   --------------------------------------------------------- | ------------ | --------- | -----------  | --------- | 
+|   ------------------------------------------------- | ------------ | --------- | -----------  | --------- | 
