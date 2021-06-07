@@ -5,13 +5,12 @@ Papers and Codes for the deep learning in hyperbolic space
 | Paper Title |    Where       |         Architecture   |      Task           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
 | [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/pdf/2101.04562.pdf) | 2021 | Survey | -  | - |
-| [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046) | CVPR 2021 | AutoEncoder | Graph  | [PyTorch](https://github.com/junhocho/HGCAE)|
+| [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046) | CVPR2021 | AutoEncoder | Graph  | [PyTorch](https://github.com/junhocho/HGCAE)|
 | [Learning the Predictability of the Future](https://arxiv.org/pdf/2101.01600.pdf) | CVPR2021 | Predictive model | CV  | [PyTorch](https://github.com/cvlab-columbia/hyperfuture)|
 | [Hyperbolic Neural Networks++](https://openreview.net/forum?id=Ec85b0tUwbA) | ICLR2021 | NN | NLP  | [PyTorch](https://github.com/mil-tokyo/hyperbolic_nn_plusplus)|
 | [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) | 2021 | NN | NLP  | - | 
 | [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections] | ICML2021 | NN | Visualization  | -| 
-| [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2021 | NN | NLP  | - |
-| [Hyperbolic Neural Networks++](https://openreview.net/forum?id=Ec85b0tUwbA) | ICLR2021 | NN | NLP  | [PyTorch](https://github.com/mil-tokyo/hyperbolic_nn_plusplus)|
+| [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML2021 | NN | NLP  | - |
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
 |   ------------------------------------------------ | ------------ | --------- | -----------  | --------- | 
 | [Hyperbolic Distance Matrices](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | KDD2020 | Lorentzian | NLP/Tree  | [python](https://github.com/puoya/hyperbolic-distance-matrices)|
