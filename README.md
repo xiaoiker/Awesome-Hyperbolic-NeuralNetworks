@@ -9,7 +9,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [Learning the Predictability of the Future](https://arxiv.org/pdf/2101.01600.pdf) | CVPR2021 | only Latent | CV  | [PyTorch](https://github.com/cvlab-columbia/hyperfuture)|
 | [Hyperbolic Neural Networks++](https://openreview.net/forum?id=Ec85b0tUwbA) | ICLR2021 | NN | NLP  | [PyTorch](https://github.com/mil-tokyo/hyperbolic_nn_plusplus)|
 | [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) | 2021 | NN | NLP  | - |
-| [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/abs/2105.14686) | 2021 | GNN | Graph  | - | 
+| [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/abs/2105.14686) | CVPR2021 | GNN | Graph  | [PyTorch](https://github.com/JindouDai/H2H-GCN) | 
 | [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections] | ICML2021 | NN | Visualization  | -| 
 | [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML2021 | NN | NLP  | - |
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
