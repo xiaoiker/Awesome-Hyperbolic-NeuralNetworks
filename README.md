@@ -21,7 +21,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [Hyperbolic Zero shot Learning](https://github.com/ShaoTengLiu/Hyperbolic_ZSL) | CVPR2020 | NN | CV  | [PyTorch](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)|
 | [Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2010.00402) | NeurIPS2020 | Clustering | Classification  | [PyTorch](https://github.com/ruocwang/darts-pt)|
 |   ------------------------------------------| ------------ | --------- | -----------  | --------- | 
-| [Hyperbolic graph convolutional neural networks](https://arxiv.org/abs/2010.00402) | NeurIPS2019 | GCN | Grpah  | [PyTorch](https://github.com/HazyResearch/hgcn)|
+| [Hyperbolic graph convolutional neural networks](https://arxiv.org/abs/1910.12933) | NeurIPS2019 | GCN | Grpah  | [PyTorch](https://github.com/HazyResearch/hgcn)|
 | [Hyperbolic Ordinal Embedding](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | ACML2019 | Ordinal Embedding | NLP/Tree  | - |
 | [Hyperbolic Graph Neural Networks](https://papers.nips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html) | NeurIPS2019 | GNN | Molecular Structures | [PyTorch](https://github.com/facebookresearch/hgnn)|
 |   ----------------------------------------- | ------------ | --------- | -----------  | --------- | 
