@@ -14,7 +14,8 @@ Papers and Codes for the deep learning in hyperbolic space
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
 |   ---------------------------------------- | ------------ | --------- | -----------  | --------- | 
 | [Hyperbolic Distance Matrices](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | KDD2020 | Lorentzian | NLP/Tree  | [python](https://github.com/puoya/hyperbolic-distance-matrices)|
-| [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2020 | GCN | Graph  | - | 
+| [ Differentiating through the Frechet Mean](https://arxiv.org/pdf/2003.00335.pdf) | ICML 2020 | GNN | Graph  | [PyTorch](https://github.com/CUAI/Differentiable-Frechet-Mean) | 
+| [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2020 | GCN | Graph  | - |
 | [Mix Dimension in Poincar\'{e} Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3394171.3413910) | MM2020 | GCN | Grpah  | - |
 | [Hyperbolic Image Embedding](https://github.com/leymir/hyperbolic-image-embeddings) | CVPR2020 | only Latent | CV  | [PyTorch](https://github.com/leymir/hyperbolic-image-embeddings)|
 | [Hyperbolic Zero shot Learning](https://github.com/ShaoTengLiu/Hyperbolic_ZSL) | CVPR2020 | NN | CV  | [PyTorch](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)|
