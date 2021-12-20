@@ -4,7 +4,7 @@ Papers and Codes for the deep learning in hyperbolic space
 
 | Paper Title |    Where       |         Architecture   |      Task           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
-| [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/pdf/2101.04562.pdf) | 2021 | Survey | -  | - |
+| [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/pdf/2101.04562.pdf) | TPAMI2021 | Survey | -  | - |
 | [Fully Hyperbolic Neural Networks](https://arxiv.org/pdf/2105.14686.pdf) | 2021 | GNN | Graphs  | [PyTorch](https://github.com/chenweize1998/fully-hyperbolic-nn) |
 | [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046) | CVPR2021 | AutoEncoder | Graph  | [PyTorch](https://github.com/junhocho/HGCAE)|
 | [Learning the Predictability of the Future](https://arxiv.org/pdf/2101.01600.pdf) | CVPR2021 | only Latent | CV  | [PyTorch](https://github.com/cvlab-columbia/hyperfuture)|
