@@ -20,6 +20,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
 |   ---------------------------------------- | ------------ | --------- | -----------  | --------- | 
 | [Hyperbolic Distance Matrices](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | KDD2020 | Lorentzian | NLP/Tree  | [python](https://github.com/puoya/hyperbolic-distance-matrices)|
+| [Poincaré maps for analyzing complex hierarchies in single-cell data](https://www.nature.com/articles/s41467-020-16822-4) | Nature | Embedding | Cells  | [pyTorch](https://github.com/facebookresearch/PoincareMaps)|
 | [ Differentiating through the Frechet Mean](https://arxiv.org/pdf/2003.00335.pdf) | ICML 2020 | GNN | Graph  | [PyTorch](https://github.com/CUAI/Differentiable-Frechet-Mean) | 
 | [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2020 | GCN | Graph  | - |
 | [Mix Dimension in Poincar\'{e} Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3394171.3413910) | MM2020 | GCN | Grpah  | - |
