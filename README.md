@@ -18,6 +18,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections] | ICML2021 | NN | Visualization  | -| 
 | [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML2021 | NN | NLP  | - |
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
+| [Highly Scalable and Provably Accurate Classification in Poincare Balls](https://arxiv.org/pdf/2109.03781.pdf) | ICDM2021 | Embedding | Cell  | [Python](https://github.com/thupchnsky/PoincareLinearClassification)|
 |   ---------------------------------------- | ------------ | --------- | -----------  | --------- | 
 | [Hyperbolic Distance Matrices](https://dl.acm.org/doi/abs/10.1145/3394486.3403224) | KDD2020 | Lorentzian | NLP/Tree  | [python](https://github.com/puoya/hyperbolic-distance-matrices)|
 | [Poincaré maps for analyzing complex hierarchies in single-cell data](https://www.nature.com/articles/s41467-020-16822-4) | Nature | Embedding | Cells  | [pyTorch](https://github.com/facebookresearch/PoincareMaps)|
