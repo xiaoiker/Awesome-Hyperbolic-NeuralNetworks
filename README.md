@@ -26,6 +26,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [ Differentiating through the Frechet Mean](https://arxiv.org/pdf/2003.00335.pdf) | ICML 2020 | GNN | Graph  | [PyTorch](https://github.com/CUAI/Differentiable-Frechet-Mean) | 
 | [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML 2020 | GCN | Graph  | - |
 | [Mix Dimension in Poincar\'{e} Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/pdf/10.1145/3394171.3413910) | MM2020 | GCN | Grpah  | - |
+| [Searching for Actions on the Hyperbole](https://openaccess.thecvf.com/content_CVPR_2020/papers/Long_Searching_for_Actions_on_the_Hyperbole_CVPR_2020_paper.pdf) | CVPR2020 | Latent | CV  | [PyTorch](https://github.com/Tenglon/hyperbolic_action)|
 | [Hyperbolic Image Embedding](https://github.com/leymir/hyperbolic-image-embeddings) | CVPR2020 | only Latent | CV  | [PyTorch](https://github.com/leymir/hyperbolic-image-embeddings)|
 | [Hyperbolic Zero shot Learning](https://github.com/ShaoTengLiu/Hyperbolic_ZSL) | CVPR2020 | NN | CV  | [PyTorch](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)|
 | [Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2010.00402) | NeurIPS2020 | Clustering | Classification  | [PyTorch](https://github.com/ruocwang/darts-pt)|
