@@ -4,7 +4,7 @@ Papers and Codes for the deep learning in hyperbolic space
 
 | Paper Title |    Where       |         Architecture   |      Task           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
-| [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/pdf/2101.04562.pdf) | TPAMI2021 | Survey | -  | - |
+| [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/pdf/2101.04562.pdf) | TPAMI2022 | Survey | -  | - |
 | [Hyperbolic Image Segmentation](https://arxiv.org/pdf/2203.05898.pdf) | CVPR2022 | Latent | Segmentation  | [PyTorch](https://github.com/MinaGhadimiAtigh/HyperbolicImageSegmentation) |
 | [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf) | ICCV2021 | latent | Few-shot  | [PyTorch](https://github.com/ZhiGaomcislab/CurvatureGeneration_FSL) |
 | [Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/pdf/2104.01257.pdf) | CVPR2021 | latent | segmentation  | [PyTorch](https://github.com/ZZWENG/longtail_segmentation) |
