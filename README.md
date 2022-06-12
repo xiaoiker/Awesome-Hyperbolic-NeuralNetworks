@@ -17,7 +17,7 @@ Papers and Codes for the deep learning in hyperbolic space
 | [Learning the Predictability of the Future](https://arxiv.org/pdf/2101.01600.pdf) | CVPR2021 | only Latent | CV  | [PyTorch](https://github.com/cvlab-columbia/hyperfuture)|
 | [Hyperbolic Neural Networks++](https://openreview.net/forum?id=Ec85b0tUwbA) | ICLR2021 | NN | NLP  | [PyTorch](https://github.com/mil-tokyo/hyperbolic_nn_plusplus)|
 | [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/pdf/2104.06942.pdf) | CVPR2021 | GNN | Graph  | [PyTorch](https://github.com/JindouDai/H2H-GCN) | 
-| [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections] | ICML2021 | NN | Visualization  | -| 
+| [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections](http://proceedings.mlr.press/v139/chami21a/chami21a.pdf) | ICML2021 | NN | Visualization  | [PyTorch](https://github.com/HazyResearch/HoroPCA) | 
 | [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://openreview.net/forum?id=Ec85b0tUwbA) | ICML2021 | NN | NLP  | - |
 | [HGCF: Hyperbolic GCN for Collaborative Filtering](cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf) | WWW2021 | Clustering | Recommendation  | [PyTorch](https://github.com/ruocwang/darts-pt)|
 | [Highly Scalable and Provably Accurate Classification in Poincare Balls](https://arxiv.org/pdf/2109.03781.pdf) | ICDM2021 | Embedding | Cell  | [Python](https://github.com/thupchnsky/PoincareLinearClassification)|
